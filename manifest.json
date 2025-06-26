@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Blue Wallet",
+  "version": "1.0",
+  "description": "A Wallet to interact with Sepolia Testnet.",
+  "permissions": ["storage"],
+  "action": {
+    "default_title": "Blue Wallet",
+    "default_popup": "src/popup.html",
+    "default_icon": "public/icone.png"
+  },
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "icons": {
+    "128": "public/icone.png"
+  }
+}
