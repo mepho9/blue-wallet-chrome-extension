@@ -1,4 +1,4 @@
-# Blue Wallet – Chrome Extension for Ethereum (Sepolia Testnet)
+# Blue Wallet – Chrome Extension for Ethereum
 
 A lightweight Ethereum wallet built as a Chrome extension using **ethers.js** and the Sepolia testnet.  
 Create, store, and manage Ethereum wallets directly from your browser.
